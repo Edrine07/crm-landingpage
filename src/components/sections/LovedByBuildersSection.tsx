@@ -7,8 +7,8 @@ function LovedByBuildersSection() {
   const tweets = [
     {
       imageUrl: "/images/a_1.png",
-      reviewerName: "Sebastiaan Debrouwere",
-      reviewerTag: "@iamsebdeb",
+      reviewerName: "Ram Camposano",
+      reviewerTag: "@iamram",
       review:
         "We use @attio on a daily basis for several internal processes, and I cannot rave enough about them. Incredible flexibility and features combined with super intuitive UI",
       timestamp: "10:01 PM - Apr 7, 2022",
@@ -16,8 +16,8 @@ function LovedByBuildersSection() {
 
     {
       imageUrl: "/images/a_2.png",
-      reviewerName: "Alon",
-      reviewerTag: "@alon",
+      reviewerName: "Aljon Adamos",
+      reviewerTag: "@aljon",
       review:
         "As an early stage startup I'm really loving using @attio - great balance of flexibility and prescriptiveness",
       timestamp: "6:57 PM - Dec 1, 2022",
@@ -34,8 +34,8 @@ function LovedByBuildersSection() {
 
     {
       imageUrl: "/images/a_4.png",
-      reviewerName: "Khrisna",
-      reviewerTag: "@ntkris",
+      reviewerName: "Bryle Bon",
+      reviewerTag: "@Bryle00001",
       review:
         "Holy shit @attio is beautiful 😍 I've run my CRM on Notion to date. Hubspot & Salesforce too clunky. Sleek and simple, just what I need",
       timestamp: "10:22 PM - Mar 3, 2023",
@@ -51,7 +51,7 @@ function LovedByBuildersSection() {
     },
     {
       imageUrl: "/images/a_6.png",
-      reviewerName: "Damian",
+      reviewerName: "Damian Lilard",
       reviewerTag: "@damian09",
       review:
         "I've been using @attio to track applicants, manage my deal pipeline and manage the associated notes/tasks. The use-cases are unlimited; it truly feels like the Notion of CRM.",

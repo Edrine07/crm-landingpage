@@ -43,7 +43,7 @@ function NavBar() {
       <div className=" hidden lg:block animate-in fade-in zoom-in bg-white p-4">
         <div className="flex justify-between mx-4 items-center">
           <div>
-            <img src="/images/logo.svg" alt="logo" />
+            <h1 className="text-black font-extrabold text-3xl font-mono">Next0</h1>
           </div>
           <div className="flex gap-[20px] xl:gap-[50px] text-[16px] items-center select-none">
             {links.map((item, index) => (
