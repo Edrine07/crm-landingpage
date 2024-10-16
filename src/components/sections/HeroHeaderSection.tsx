@@ -9,7 +9,7 @@ function HeroHeaderSection() {
           New
         </div>
         <p className="text-[#31373D]">
-          How Pallet uses Attio to power their GTM
+          How Pallet uses Next0 to power their GTM
         </p>
         <div>
           <ChevronRight />

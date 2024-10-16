@@ -20,7 +20,7 @@ function HeroSection() {
         </div>
 
         <p className="mb-8 text-[22px] text-center text-[#31373D]">
-          Powerful, flexible and data-driven, Attio makes it easy to build the
+          Powerful, flexible and data-driven, Next0 makes it easy to build the
           exact CRM your business needs.
         </p>
 
